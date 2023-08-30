@@ -1,0 +1,19 @@
+# hugo.toml
+
+# Basic configuration
+#baseURL = 'https://anticorpware.github.io/anticorp-wiki'
+languageCode = 'en-us'
+title = 'The Church of GNU'
+theme = "hugo-book"
+paginate = 5
+
+
+# Build options
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+
+# Miscellaneous
+enableGitInfo = true
+disablePathToLower = true
+disableKinds = ['taxonomy']

@@ -1,0 +1,32 @@
+BookTheme = "auto"
+BookToC = true
+
+# /static/logo.png then the path would be 'logo.png'
+#BookLogo = 'logo.png'
+
+# Specify section of content to render as menu
+# docs is default, * for all
+BookSection = 'docs'
+
+
+# Repository link
+BookRepo = 'https://github.com/anticorpware/anticorp-wiki'
+
+# Edit this page feature (requires: BookRepo parameter)
+
+
+
+# The date format used
+BookDateFormat = 'Jan 2, 2006'
+
+BookCommitPath = 'commit'
+
+# Search functionality
+BookSearch = true
+
+# Comments functionality
+BookComments = false
+
+
+
+
