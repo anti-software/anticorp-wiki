@@ -9,3 +9,8 @@ title: "Computer Graphics"
 ---
 
 # Computer Graphics
+
+### OpenGL
+- Learn OpenGL: [Link](https://learnopengl.com/)
+- OpenGL Wiki: [Link](https://www.khronos.org/opengl/wiki/Getting_Started)
+
