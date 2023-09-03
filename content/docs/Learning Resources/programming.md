@@ -10,6 +10,12 @@ title: "Programming concepts"
 
 # Programming resources
 
+### Programming language theory
+- **Programming Concepts**: Taught at UIC by John Bell, this web site contains course notes for general concepts in computer programming, independent of any particular language or implementation. Some sections contain links to language-specific implementation notes [[Course]](https://www.cs.uic.edu/~jbell/CourseNotes/ProgrammingConcepts/)
+- **Elements of programming**: Decomposing programs into a system of algorithmic components [[Link]](http://elementsofprogramming.com)
+
+
+
 ### C
 
 ##### Learning resources
@@ -40,3 +46,16 @@ title: "Programming concepts"
 ### Go
 ##### Learning resources
 - Effective Go: [[Link]](https://golang.org/doc/effective_go)
+
+---
+
+### Ruby
+#### Learning resources
+- **Ruby By Example**: [[Link]](https://ruby-by-example.netlify.app)
+
+---
+
+### Miscellaneous
+
+- **Handmade.Network**: Computers are amazing. So why is software so terrible? [[Link]](https://handmade.network/manifesto)
+
