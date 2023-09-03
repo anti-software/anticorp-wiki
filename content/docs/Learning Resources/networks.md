@@ -23,6 +23,3 @@ title: "Networking"
     - **netmaker**: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks [[GitHub]](https://github.com/gravitl/netmaker)
     - **nebula**: A scalable overlay networking tool with a focus on performance, simplicity and security [[GitHub]](https://github.com/slackhq/nebula)
 
-### Distributed systems
-##### Resources
-- **Distributed Systems** (3rd edition): [[Link]](https://www.distributed-systems.net/index.php/books/ds3/)
