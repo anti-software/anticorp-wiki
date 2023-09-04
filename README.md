@@ -3,10 +3,9 @@
 ## What?
 We run a private Discord/ XMPP/ Matrix server wherein most of our members post #resources related to a lot of cool stuff. That shit was getting out of control, in order to give #resources some structure and for the sake of longevity, it was mutually decided to spin up a Wiki for the same.
 
-
 ## Contribution
 
-### Contribution guidelines people who are members of Anticorpware
+### For members
 
 - Clone the repository
 ```bash
@@ -54,7 +53,7 @@ $ git commit -S -m "Add a proper commit message"
 $ git push -u origin main
 ```
 
-### Contribution guidelines for non-members
-Send a PR, most of the steps remain the same. 99.99% chances it will get rejected but we will accept PR from folks who 
-are a member of our private server but not of the GitHub organisation.
+### For non-members
+Send a PR, most of the steps remain the same. It may get rejected as we generally accept PR from folks who 
+are a member of our server but not of the GitHub organisation.
 
