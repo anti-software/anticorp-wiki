@@ -19,3 +19,4 @@ title: "Miscellaneous"
 - **The Book Of Secret Knowledge**: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more [[GitHub]](https://github.com/trimstray/the-book-of-secret-knowledge)
 - **Rusty-CS**: A Computer Science Curriculum with Rust flavor! [[GitHub]](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - **ossu**: Path to a free self-taught education in Computer Science! [[GitHub]](https://github.com/ossu/computer-science)
+- **bottomupcs**: Computer Science from the Bottom Up [[Link]](https://www.bottomupcs.com)
