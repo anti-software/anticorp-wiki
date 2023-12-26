@@ -11,7 +11,10 @@ title: "Piracy"
 # Piracy
 
 ### Resources
-- **FreeMediaHeckYeah** (FMHY): The Largest Collection of Free Stuff On The Internet! [[Link]](https://fmhy.pages.dev)
+- **FreeMediaHeckYeah**:: The Largest Collection of Free Stuff On The Internet! [[Link]](https://fmhy.pages.dev)
+- **AnimePiracy**: [[Link]](https://theindex.moe)
+- **Piracy Index**: This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage. [[Link]](https://piracy.vercel.app)
+- **Champagne Piracy Wiki**: [[Link]](https://champagne.pages.dev)
 - **Warez: The Infrastructure and Aesthetics of Piracy**: Understanding the pirate ecosystem [[Link]](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
 
 ### Miscellaneous

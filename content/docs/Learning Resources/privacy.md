@@ -21,7 +21,7 @@ title: "Online privacy and digital security"
 - **privacy-settings**: Guide to privacy settings for most major softwares and services. [[GitHub]](https://github.com/StellarSand/privacy-settings)
 - **personal-security-checklist**: A compiled checklist of 300+ tips for protecting digital security and privacy in 2023. [[GitHub]](https://github.com/Lissy93/personal-security-checklist)
 - **SurvivalManual**: Libre Survival Manual for Android with offline in mind [[GitHub]](https://github.com/ligi/SurvivalManual)
-- **ntc.party**: A forum with discussions regarding censorship [[https://ntc.party]]
+- **ntc.party**: A forum with discussions regarding censorship [[Link]](https://ntc.party)
 - **Security & Privacy Evaluations by madaidans**: [[Link]](https://madaidans-insecurities.github.io)
 - **The New Oil**: The Beginner’s Guide to Data Privacy & Cybersecurity [[Link]](https://thenewoil.org)
 - **A Defensive Computing Checklist**: [[Link]](https://defensivecomputingchecklist.com)
@@ -36,9 +36,11 @@ title: "Online privacy and digital security"
     - **WebKay**: What every Browser knows about you [[Link]](https://webkay.robinlinus.com)
   - **AmIUnique**: Learn how identifiable you are on the Internet [[Link]](https://amiunique.org/)
   - **EFF Cover Your Tracks**: See how trackers view your browser [[Link]](https://coveryourtracks.eff.org/)
-  - **BrowserAudit**: BrowserAudit checks that your web browser correctly implements a wide variety of security standards and features. [[Link]]()https://browseraudit.com
+  - **BrowserAudit**: BrowserAudit checks that your web browser correctly implements a wide variety of security standards and features. [[Link]](https://browseraudit.com)
 - **Digital-Privacy**: Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 [[GitHub]](https://github.com/ffffffff0x/Digital-Privacy)
 - Check for DNS related things:
+  - **DNScheck**: A tool to test for DNS leaks, DNSSEC validation, and more
+     [[Link]](https://dnscheck.tools)
   - **DNSLeakTest**: Check if you are vulnerable against DNS leaks [[Link]](https://dnsleaktest.com/)
   - **Check for Encrypted Client Hello**:
       - [[Cloudflare]](https://www.cloudflare.com/ssl/encrypted-sni/)
