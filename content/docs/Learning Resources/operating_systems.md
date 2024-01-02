@@ -44,3 +44,12 @@ title: "Operating systems"
 ### Windows security
 - **Windows hardening**
     - [[beerisgood/Windows11_Hardening]](https://github.com/beerisgood/Windows11_Hardening)
+
+###Learning Resource
+-**Windows Drivers RE Methodology**: [[Link]](https://voidsec.com/windows-drivers-reverse-engineering-methodology/)
+
+##MacOS
+
+###Learning Resource
+
+- **MacOS Internals** : [[Gist]](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
