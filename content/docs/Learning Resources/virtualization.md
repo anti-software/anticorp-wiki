@@ -12,7 +12,7 @@ title: "Virtualization"
 
 ### Resources
 - **IITB CS695**: Virtualization and Cloud Computing by Mythili Vutukuru [[Link]](https://www.cse.iitb.ac.in/~mythili/virtcc/)
-- **Quick QEMU VMs Via CLI**:[Link](https://whynothugo.nl/journal/2022/07/01/quick-and-simple-vms-with-qemu/)
+- **Quick QEMU-VMs via CLI**: [[Link]](https://whynothugo.nl/journal/2022/07/01/quick-and-simple-vms-with-qemu/)
 
 ### Tools
 
