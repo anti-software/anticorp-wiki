@@ -71,6 +71,14 @@ title: "Programming concepts"
 
 ---
 
+
+### Competitive Programming
+#### Learning Resources
+- **CSES.FI**: [[Link]](https://cses.fi/book/book.pdf)
+- **Way To Practice Competitive Programming**: [[Link]](https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa)
+- **Leetcode Patterns**: [[Link]](https://seanprashad.com/leetcode-patterns)
+
+
 ### Miscellaneous
 
 - **Handmade.Network**: Computers are amazing. So why is software so terrible? [[Link]](https://handmade.network/manifesto)
