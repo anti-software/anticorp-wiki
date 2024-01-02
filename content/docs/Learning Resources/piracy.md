@@ -15,9 +15,12 @@ title: "Piracy"
 - **AnimePiracy**: [[Link]](https://theindex.moe)
 - **Piracy Index**: This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage. [[Link]](https://piracy.vercel.app)
 - **Champagne Piracy Wiki**: [[Link]](https://champagne.pages.dev)
-- **Warez: The Infrastructure and Aesthetics of Piracy**: Understanding the pirate ecosystem [[Link]](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
+- **r/piracy Megathread**: [[Link]](https://www.reddit.com/r/Piracy/wiki/megathread/)
+- **Ripped Guide**: [[Link]](https://ripped.guide)
+- **Esoteria Avenue**: [[Link]](https://ori5000.github.io)
 
 ### Miscellaneous
+- **Warez: The Infrastructure and Aesthetics of Piracy**: Understanding the pirate ecosystem [[Link]](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
 - **Understanding pirate multimedia releases**: Understanding x264, x265, codecs and stuff[[Reddit]](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases/)
 - **Reddit IMAs**
     - I run a "topsite" FTP server and I'm in the piracy scene. AMA [[Reddit]](https://www.reddit.com/r/IAmA/comments/9rtq4/i_run_a_topsite_ftp_server_and_im_in_the_piracy/)
