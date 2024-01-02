@@ -12,9 +12,6 @@ title: "Emulation"
 - [Writing a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 - [CHIP-8 Technical Reference](https://github.com/mattmikolay/chip-8/)
 
-> Chip-8 Research Facility is an aggregating resource. It is recommended to check it.
-We also recommend using Timendus's Chip-8 Test Suite to check for correct behavior.
-
 ### Nintendo Entertainment System (NES)
 - See 65xx family resources
 - [6502 instruction set reference](https://www.masswerk.at/6502/6502_instruction_set.html)

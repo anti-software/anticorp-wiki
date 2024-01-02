@@ -10,7 +10,7 @@ title: "Miscellaneous"
 
 # Miscellaneous
 
-###Audio Programming
+### Audio Programming
 
 - [Let There Be Sound](https://nicolasallemand.com/2019/12/12/let-there-be-sound/)
 
