@@ -26,7 +26,7 @@ title: "Computer Graphics"
 - **OpenGL Wiki**: [Link](https://www.khronos.org/opengl/wiki/Getting_Started)
 
 ### Vulkan
-- **Vulan Tutorial**: [Link](https://vulkan-tutorial.com)
+- **Vulkan Tutorial**: [Link](https://vulkan-tutorial.com)
 
 ## Tools
 - **Framebuffer viewer**: fbv (FrameBuffer Viewer) is a simple program to view pictures on a Linux framebuffer device [[GitHub]](https://github.com/smokku/fbv)
