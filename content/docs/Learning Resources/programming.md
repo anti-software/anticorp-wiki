@@ -25,7 +25,7 @@ title: "Programming concepts"
 - **Write a Shell in C** by Stephen Brennan: [[Link]](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
 ##### Libraries and stuff
-- **STB**Single File Public Domain Libraries: [[Github]](https://github.com/nothings/stb)
+- **STB**: Single File Public Domain Libraries [[GitHub]](https://github.com/nothings/stb)
 
 ---
 
@@ -59,14 +59,14 @@ title: "Programming concepts"
 
 ---
 
-###Python
-####Learning Resources
+### Python
+#### Learning Resources
 - **Dive Into Python**: [[Link]](https://diveintopython3.net/)
 
 ---
 
-###LISP
-####Learning Resources
+### LISP
+#### Learning Resources
 - **Lisp Course**: [[Link]](http://art2.ph-freiburg.de/Lisp-Course)
 
 ---
