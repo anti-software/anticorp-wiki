@@ -27,9 +27,10 @@ title: "Computer Architecture and Hardware"
 - **Programmed Introduction to MIPS Assembly Language**: Interactive first course in assembly language programming using the MIPS32 processor and the SPIM simulator [[Link]](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
 - **asmtutor**: NASM Assembly Language Tutorials [[Link]](https://asmtutor.com/)
 - **Linux system call table for X86-64**: [[Link]](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
-
+- **Learn x86-64 using Windows**: [[Link]](https://gpfault.net/posts/asm-tut-0.txt.html/)
+- **How to Learn x86 by Uni Of Virginia**: [[Link]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ### Trusted Computing
 
-- Introduction To Trusted Computing by Ariel Segall@OpenSecurityTraining: [[YouTube]](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kBgdLhorJD6BR66D5kGoUV) [[Homepage]](https://opensecuritytraining.info/IntroToTrustedComputing.html)
+- **Introduction To Trusted Computing by Ariel Segall@OpenSecurityTraining**: [[YouTube]](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kBgdLhorJD6BR66D5kGoUV) [[Homepage]](https://opensecuritytraining.info/IntroToTrustedComputing.html)
 - **DRM internals**: How Netflix/Amazon DRM ACTUALLY works [[Reddit]](https://www.reddit.com/r/Piracy/comments/j3fm2d/info_how_netflixamazon_drm_actually_works/)

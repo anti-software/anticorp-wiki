@@ -18,6 +18,7 @@ title: "Piracy"
 - **r/piracy Megathread**: [[Link]](https://www.reddit.com/r/Piracy/wiki/megathread/)
 - **Ripped Guide**: [[Link]](https://ripped.guide)
 - **Esoteria Avenue**: [[Link]](https://ori5000.github.io)
+- **GentooMen Library**: [Link](https://g.sicp.me/books/)
 
 ### Miscellaneous
 - **Warez: The Infrastructure and Aesthetics of Piracy**: Understanding the pirate ecosystem [[Link]](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
