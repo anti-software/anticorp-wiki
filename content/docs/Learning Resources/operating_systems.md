@@ -18,6 +18,7 @@ title: "Operating systems"
 - **DECS**: Design and Engineering of Computer Systems taught at IIT Bombay [[Link]](https://www.cse.iitb.ac.in/~mythili/decs/)
 - **OSTEP**: Operating Systems: Three Easy Pieces [[Link]](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - **Operating System Concepts** (10th edition): [[Link]](https://www.wiley.com/en-us/Operating+System+Concepts,+10th+Edition-p-9781119320913)
+
 ## Linux
 
 ### Learning resources
@@ -45,11 +46,11 @@ title: "Operating systems"
 - **Windows hardening**
     - [[beerisgood/Windows11_Hardening]](https://github.com/beerisgood/Windows11_Hardening)
 
-###Learning Resource
--**Windows Drivers RE Methodology**: [[Link]](https://voidsec.com/windows-drivers-reverse-engineering-methodology/)
+### Learning Resource
+- **Windows Drivers RE Methodology**: [[Link]](https://voidsec.com/windows-drivers-reverse-engineering-methodology/)
 
-##MacOS
+## MacOS
 
-###Learning Resource
+### Learning Resource
 
-- **MacOS Internals** : [[Gist]](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
+- **MacOS Internals**: [[Gist]](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
