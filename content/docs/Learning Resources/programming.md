@@ -23,7 +23,16 @@ title: "Programming concepts"
 - [assemblyTutorials](https://github.com/DGivney/assemblytutorials): This project was put together to teach myself NASM x86 assembly language on Linux
 - [optimization-manual](https://github.com/intel/optimization-manual): Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"
 - [asmdb](https://github.com/asmjit/asmdb): Instructions database and utilities for X86/X64 and ARM (THUMB/A32/A64) architectures
-
+- **Assemblers Almanac**: List of resources compiled from the Assembler's Community server [[GitLab]](https://gitlab.com/qhaos/assemblers-almanac)
+- OpenSecurityTraining Intel x86: [[Link]](https://youtu.be/H4Z0S9ZbC0g?si=lfJq4XBhQ425UovN)
+- **Instruction set reference**
+  - Intel® 64 and IA-32 Instruction Set Reference [[Link]](https://namazso.github.io/x86/)
+  - X86 Opcode and Instruction Reference [[Link]](http://ref.x86asm.net)
+- **Programmed Introduction to MIPS Assembly Language**: Interactive first course in assembly language programming using the MIPS32 processor and the SPIM simulator [[Link]](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
+- **asmtutor**: NASM Assembly Language Tutorials [[Link]](https://asmtutor.com/)
+- **Linux system call table for X86-64**: [[Link]](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+- **Learn x86-64 using Windows**: [[Link]](https://gpfault.net/posts/asm-tut-0.txt.html/)
+- **How to Learn x86 by Uni Of Virginia**: [[Link]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 #### Tools
 - [rappel](https://github.com/yrp604/rappel): A linux-based assembly REPL for x86, amd64, armv7, and armv8
 - [ia32-doc](https://github.com/ia32-doc/ia32-doc): IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible

@@ -17,18 +17,6 @@ title: "Computer Architecture and Hardware"
     - **Build your own FPGA**: [[Link]](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
     - **FPGA architecture overview**: [[Link]](https://cse.usf.edu/~haozheng/teach/cda4253/doc/fpga-arch-overview.pdf)
 
-### Assembly programming
-- **Assemblers Almanac**: List of resources compiled from the Assembler's Community server [[GitLab]](https://gitlab.com/qhaos/assemblers-almanac)
-- OpenSecurityTraining Intel x86: [[Link]](https://youtu.be/H4Z0S9ZbC0g?si=lfJq4XBhQ425UovN)
-- **rappel**: A linux-based assembly REPL for x86, amd64, armv7, and armv8 [[GitHub]](https://github.com/yrp604/rappel)
-- **Instruction set reference** 
-    - Intel® 64 and IA-32 Instruction Set Reference [[Link]](https://namazso.github.io/x86/)
-    - X86 Opcode and Instruction Reference [[Link]](http://ref.x86asm.net)
-- **Programmed Introduction to MIPS Assembly Language**: Interactive first course in assembly language programming using the MIPS32 processor and the SPIM simulator [[Link]](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
-- **asmtutor**: NASM Assembly Language Tutorials [[Link]](https://asmtutor.com/)
-- **Linux system call table for X86-64**: [[Link]](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
-- **Learn x86-64 using Windows**: [[Link]](https://gpfault.net/posts/asm-tut-0.txt.html/)
-- **How to Learn x86 by Uni Of Virginia**: [[Link]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ### Trusted Computing
 
