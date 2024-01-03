@@ -28,6 +28,10 @@ title: "Online privacy and digital security"
 - **security-in-a-box**: digital security tools and tactics [[Link]](https://securityinabox.org/en/)
 - **eldritchdata**: A collection of stuff regarding privacy, security and other related things [[Link]](https://eldritchdata.neocities.org)
 - **Spyware Watchdog**: The goal of this website is to classify spyware programs, so that users can be more aware that they are installing spyware. [[Link]](https://spyware.neocities.org)
+- **privacy.sexy**: Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy [[GitHub]](https://github.com/undergroundwires/privacy.sexy)
+- **privacy-settings**: Guide to privacy settings for most major softwares and services [[GitHub]](https://github.com/StellarSand/privacy-settings)
+
+
 
 ### Privacy tools
 - Browser fingerprinting: 
@@ -74,7 +78,7 @@ title: "Online privacy and digital security"
 - **FilterLists**:
     - [[FilterLists]](https://filterlists.com)
     - [[StevenBlack/hosts]](https://github.com/StevenBlack/hosts)
-- Privacy policies of websites
+- Privacy policies of website
   - **Terms of Service; Didn't Read**: "Terms of Service; Didn't Read" (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time: [[Link]](https://tosdr.org/)
   - **PrivacySpy**: PrivacySpy is an open project to grade and monitor privacy policies for convenience and accountability [[Link]](https://privacyspy.org/)
   - **Blacklight**: A Real-Time Website Privacy Inspector [[Link]](https://themarkup.org/blacklight)
