@@ -11,6 +11,7 @@ weight: 1
 
 # Self hosting resources
 
+
 ### Learning resources
 - [LandChad](https://landchad.net): A site dedicated to turning internet peasants into Internet Landlords by showing them how to setup websites, email servers, chat servers and everything in between.
 - [vagrant-vmware-box](https://github.com/wildfluss/vagrant-vmware-box): How to create VMware vagrant box

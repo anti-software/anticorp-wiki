@@ -24,6 +24,8 @@ title: "Programming concepts"
 ##### Learn by doing
 - **Write a Shell in C** by Stephen Brennan: [[Link]](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
+##### Libraries and stuff
+- **STB**: Single File Public Domain Libraries [[GitHub]](https://github.com/nothings/stb)
 
 ---
 
@@ -46,6 +48,8 @@ title: "Programming concepts"
 ### Go
 ##### Learning resources
 - Effective Go: [[Link]](https://golang.org/doc/effective_go)
+- Tour Golang: [[Link]](https://tour.golang.org/)
+- GoLang Wiki: [[Github]](https://github.com/golang/go/wiki/Learn)
 
 ---
 
@@ -54,6 +58,26 @@ title: "Programming concepts"
 - **Ruby By Example**: [[Link]](https://ruby-by-example.netlify.app)
 
 ---
+
+### Python
+#### Learning Resources
+- **Dive Into Python**: [[Link]](https://diveintopython3.net/)
+
+---
+
+### LISP
+#### Learning Resources
+- **Lisp Course**: [[Link]](http://art2.ph-freiburg.de/Lisp-Course)
+
+---
+
+
+### Competitive Programming
+#### Learning Resources
+- **CSES.FI**: [[Link]](https://cses.fi/book/book.pdf)
+- **Way To Practice Competitive Programming**: [[Link]](https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa)
+- **Leetcode Patterns**: [[Link]](https://seanprashad.com/leetcode-patterns)
+
 
 ### Miscellaneous
 
