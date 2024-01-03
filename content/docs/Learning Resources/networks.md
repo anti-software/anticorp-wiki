@@ -15,7 +15,10 @@ title: "Networking"
 ##### Resources
 - **CompTIA A+ Certification Video Course**: By PowerCert Animated Videos [[YouTube]](https://www.youtube.com/watch?v=2eLe7uz-7CM)
 - **BGP Internet Exchange Points (IXP)**: A Primer on Internet Exchange Points for Policymakers and Non-Engineers [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2128103)
+
 ##### Tools
+- **Reverse proxy**:
+  - [caddy](https://github.com/caddyserver/caddy): ast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - **Scalable overlay networks**: These can be used to punch through the NAT without all the mess that port forwarding and dynamic IP addressing involves
     - **Tailscale**: Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale [[Link]](https://tailscale.com)
     - **ZeroTierOne**: A smart Ethernet switch for Earth [[GitHub]](https://github.com/zerotier/ZeroTierOne)
