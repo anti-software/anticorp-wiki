@@ -26,6 +26,7 @@ weight: 1
 
 ##### Design
 - [penpot](https://github.com/penpot/penpot): The Open-Source design & prototyping platform
+- [Excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 
 ##### Transmission
 - [syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
