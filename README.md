@@ -9,7 +9,7 @@ We run a private Discord/ XMPP/ Matrix server wherein most of our members post #
 
 - Clone the repository
 ```bash
-$ git clone https://github.com/anticorpware/anticorp-wiki
+$ git clone https://github.com/anticorpware/anticorp-wiki --recurse-submodules
 ```
 
 - Install Hugo Extended version
