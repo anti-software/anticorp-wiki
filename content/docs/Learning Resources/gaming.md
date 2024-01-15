@@ -27,4 +27,4 @@ title: "Gaming stuff"
 - **TZMon: Improving mobile game security with ARM trustzone**: [[Link]](https://www.sciencedirect.com/science/article/pii/S0167404821002157)
 
 ### Books
-- **Game hacking : developing autonomous bots for online games by Nick Cano**:[[Link]](https://dl.icdst.org/pdfs/files3/23f27c4a166609cd454f163a5eccd1b1.pdf)
+- **Game Hacking**: Developing autonomous bots for online games by Nick Cano [[Link]](https://dl.icdst.org/pdfs/files3/23f27c4a166609cd454f163a5eccd1b1.pdf)
