@@ -18,6 +18,9 @@ weight: 1
 - [roll.urown.net](https://github.com/alainwolf/roll.urown.net): How to roll your own private self-hosted internet services
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook): The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
 - [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki): Wiki to collect Red Team infrastructure hardening resources
+- **\*arr stack** guides
+    - [Servarr Wiki](https://wiki.servarr.com): A consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Whisparr and designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections.
+    - [TRaSH Guides](https://trash-guides.info): TRaSH Guides, Guides that aren't trash. Here you will find guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 
 ### Tools
 
