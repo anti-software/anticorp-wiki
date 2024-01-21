@@ -4,6 +4,7 @@ title: "Emulation"
 
 # Emulation
 
+## Architecture
 ### Chip-8
 - [Chip-8 Research Facility](https://chip-8.github.io/links/)
 - [Creating a CHIP-8 interpreter/emulator in C++14 - Bisqwit](https://youtu.be/rpLoS7B6T94?si=AgCWjPkZT5SUB8SI)
@@ -35,9 +36,12 @@ title: "Emulation"
 - [PSX GPU texture pipeline](https://www.reddit.com/r/EmuDev/comments/fmhtcn)
 - [PSX OSS BIOS](https://github.com/grumpycoders/pcsx-redux/tree/main/src/mips/openbios)
 
-### Misc
+## Tools
+- [retroarch](https://www.retroarch.com): RetroArch is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.
+
+## Misc
 
 - [Emu-Docs](https://github.com/shonumi/Emu-Docs)
 - [IC Library](https://www.icreversing.com/chips)
 - [Architectures Of Console](https://www.copetti.org/writings/consoles/)
-
+- [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven from r/piracy](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/)
