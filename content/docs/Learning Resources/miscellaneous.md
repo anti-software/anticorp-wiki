@@ -10,9 +10,12 @@ title: "Miscellaneous"
 
 # Miscellaneous
 
-### Audio Programming
+### Audio Engineering
 
 - [Let There Be Sound](https://nicolasallemand.com/2019/12/12/let-there-be-sound/)
+- [RED interview guide](https://interviewfor.red/): This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping
+- [Orpheus interview guide](https://interview.orpheus.network): This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping.
+- [Introduction to HiFi](https://eprojects.isucomm.iastate.edu/314-4-me/): This site is intended to educate music listeners on a broad range of topics related to improving the listening experience
 
 ### Databases
 - [Cstack Database Tutorial](https://cstack.github.io/db_tutorial/)
