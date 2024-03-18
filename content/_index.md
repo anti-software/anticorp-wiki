@@ -13,9 +13,9 @@ weight: 1
 
 # Anticorpware Wiki
 
-### What the fuck is this?
+### What is this website?
 
-We run a private Discord/ XMPP/ Matrix server wherein most of our members post #resources related to a lot of cool stuff. That shit was getting out of control, in order to give #resources some structure and for the sake of longevity, it was mutually decided to spin up a Wiki for the same.
+We run a private Discord/ XMPP/ Matrix server wherein most of our members post `#resources` related to a lot of cool stuff. That channel was getting out of control, in order to give `#resources` some structure and for the sake of longevity, it was mutually decided to spin up a Wiki for the same.
 
 ### Can I contribute?
 
@@ -25,4 +25,4 @@ You're free to use stuff mentioned in our Wiki though :)
 
 ### How do I get an invite?
 
-No, you don't.
+Sorry, but it's member only.
